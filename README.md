@@ -1,3 +1,9 @@
+## NOTE:
+
+**This fork is only to serve the purpose of maintaining existing functionality and security through dependency upgrades and minor code changes.**
+
+**For information on new developments, visit the [pull requests](https://github.com/isaacs/rimraf/pulls) and [issues](https://github.com/isaacs/rimraf/issues) sections from the upstream.**
+
 [![Build Status](https://travis-ci.org/isaacs/rimraf.svg?branch=master)](https://travis-ci.org/isaacs/rimraf) [![Dependency Status](https://david-dm.org/isaacs/rimraf.svg)](https://david-dm.org/isaacs/rimraf) [![devDependency Status](https://david-dm.org/isaacs/rimraf/dev-status.svg)](https://david-dm.org/isaacs/rimraf#info=devDependencies)
 
 The [UNIX command](http://en.wikipedia.org/wiki/Rm_(Unix)) `rm -rf` for node.

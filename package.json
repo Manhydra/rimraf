@@ -1,5 +1,5 @@
 {
-  "name": "rimraf",
+  "name": "@manhydra/rimraf",
   "version": "3.0.3",
   "main": "rimraf.js",
   "description": "A deep deletion module for node (like `rm -rf`)",
